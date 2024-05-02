@@ -1,0 +1,401 @@
+cpf,idade,renda_anual,estados,sexo
+608.724.159-02,23,60290,Rio Grande do Sul,Masculino
+912.358.607-95,24,314976,Rio Grande do Norte,Feminino
+921.457.380-88,20,424966,Goiás,Masculino
+642.780.591-67,21,337459,Rio de Janeiro,Feminino
+963.782.015-95,21,91691,Rio de Janeiro,Masculino
+045.198.762-49,24,97636,Mato Grosso,Feminino
+186.453.029-42,51,405875,Amapá,Feminino
+381.294.750-14,30,24124,Sergipe,Feminino
+682.130.547-17,32,449863,Rio de Janeiro,Feminino
+764.103.529-99,25,62612,São Paulo,Masculino
+279.813.405-60,37,388887,São Paulo,Feminino
+796.138.045-01,24,460436,Mato Grosso do Sul,Feminino
+045.291.736-07,29,140430,Minas Gerais,Feminino
+548.306.972-29,48,136534,Pará,Masculino
+601.729.483-04,39,427120,Rio de Janeiro,Feminino
+784.296.501-30,34,300651,Paraíba,Masculino
+023.968.754-00,25,188680,Rio Grande do Norte,Masculino
+508.291.376-02,38,315302,Alagoas,Masculino
+632.049.185-05,32,442025,Rio Grande do Norte,Masculino
+203.591.748-41,25,42368,Distrito Federal,Masculino
+342.160.578-53,39,457803,Maranhão,Feminino
+975.364.280-65,31,236827,Paraíba,Feminino
+620.435.718-26,31,359180,Mato Grosso do Sul,Masculino
+307.154.296-80,28,377158,Sergipe,Masculino
+630.548.279-92,25,264536,Rio Grande do Sul,Feminino
+190.563.824-89,24,147180,Amazonas,Feminino
+958.361.402-51,36,61390,Mato Grosso,Masculino
+138.270.456-90,25,417521,Rio Grande do Sul,Masculino
+624.095.137-43,33,206168,Mato Grosso do Sul,Feminino
+862.950.713-68,34,316944,Rio de Janeiro,Feminino
+261.783.945-19,30,325926,Sergipe,Feminino
+268.193.047-22,31,348327,Distrito Federal,Feminino
+481.739.652-00,40,361033,Minas Gerais,Feminino
+102.384.596-24,22,147750,Rio de Janeiro,Masculino
+341.906.278-87,37,95053,Ceará,Feminino
+103.482.675-17,39,462424,Espírito Santo,Feminino
+493.825.160-42,22,208201,Espírito Santo,Masculino
+209.835.647-10,33,49706,Santa Catarina,Feminino
+392.467.508-29,21,87191,Amapá,Feminino
+047.529.861-67,21,148619,São Paulo,Feminino
+350.894.721-14,25,176571,Goiás,Masculino
+478.659.230-74,34,219837,Rio Grande do Norte,Feminino
+479.358.106-48,26,319791,São Paulo,Feminino
+548.361.209-42,21,224787,Maranhão,Masculino
+286.750.193-86,18,388414,Amazonas,Feminino
+120.579.368-21,22,104690,Espírito Santo,Feminino
+805.943.617-10,35,260591,Minas Gerais,Masculino
+215.479.603-61,32,456328,Goiás,Feminino
+783.642.501-08,24,424199,Rio de Janeiro,Masculino
+367.250.198-03,26,98118,Rio de Janeiro,Feminino
+467.251.830-26,24,427097,Tocantins,Masculino
+547.216.098-76,33,102614,Rio Grande do Sul,Feminino
+536.849.012-70,23,255139,São Paulo,Masculino
+970.564.832-83,27,29887,São Paulo,Feminino
+829.640.531-89,24,82342,Espírito Santo,Feminino
+965.724.018-20,32,68948,Distrito Federal,Feminino
+657.089.213-40,23,95395,Rio de Janeiro,Feminino
+481.692.350-06,26,372812,Distrito Federal,Feminino
+810.526.437-44,22,290013,Pará,Masculino
+245.879.106-94,26,331900,Rio de Janeiro,Feminino
+947.085.216-85,23,471707,Pernambuco,Feminino
+590.862.173-03,19,237622,Rondônia,Feminino
+149.732.580-32,25,145005,Amazonas,Feminino
+158.074.632-26,31,156928,Distrito Federal,Feminino
+987.561.034-84,39,87331,Amapá,Feminino
+392.506.781-77,23,453318,Pará,Feminino
+403.921.587-79,29,250086,Distrito Federal,Feminino
+238.570.916-30,24,155080,Santa Catarina,Feminino
+614.932.087-13,23,42250,Distrito Federal,Feminino
+217.450.983-05,20,320013,Distrito Federal,Feminino
+794.056.318-10,22,306947,São Paulo,Feminino
+417.520.836-44,36,281570,Rondônia,Feminino
+942.536.871-64,47,303994,Minas Gerais,Masculino
+562.194.807-67,49,71221,Alagoas,Feminino
+708.629.351-21,30,156252,Mato Grosso do Sul,Feminino
+708.695.231-12,31,153988,Minas Gerais,Masculino
+318.756.049-01,23,344563,Minas Gerais,Masculino
+679.084.135-01,24,177682,Goiás,Feminino
+406.325.918-89,30,25210,Rio de Janeiro,Feminino
+810.593.762-02,28,214252,São Paulo,Masculino
+473.592.861-82,50,447752,Mato Grosso do Sul,Feminino
+140.973.682-22,23,251460,Distrito Federal,Feminino
+305.947.186-00,52,342143,Pernambuco,Feminino
+104.623.597-43,24,29089,Tocantins,Feminino
+589.431.607-39,51,228315,Sergipe,Masculino
+179.062.834-22,50,301640,São Paulo,Feminino
+752.834.610-17,34,190169,Rio Grande do Sul,Masculino
+405.189.736-20,40,322021,Sergipe,Feminino
+736.451.280-26,24,455145,Ceará,Masculino
+385.192.467-37,37,419792,Tocantins,Masculino
+126.374.590-34,25,261907,Distrito Federal,Feminino
+605.718.329-03,33,188856,São Paulo,Feminino
+904.516.387-00,18,277735,Paraná,Masculino
+392.076.145-61,30,304167,Sergipe,Masculino
+547.031.629-70,25,219235,Rondônia,Feminino
+204.639.817-31,39,177663,Mato Grosso do Sul,Feminino
+654.739.210-43,46,87810,Rio de Janeiro,Masculino
+928.756.304-74,24,233151,Paraná,Feminino
+032.514.869-42,40,277514,Amapá,Masculino
+201.578.396-21,24,221961,Espírito Santo,Feminino
+539.286.104-06,29,336501,Mato Grosso do Sul,Feminino
+534.672.190-80,23,130600,Ceará,Masculino
+132.694.758-37,21,198048,Mato Grosso do Sul,Feminino
+475.063.912-52,38,396970,Espírito Santo,Masculino
+628.057.941-76,28,499557,Tocantins,Feminino
+985.324.607-47,40,405964,Acre,Feminino
+597.320.146-52,31,382678,Mato Grosso,Masculino
+178.245.906-58,22,366223,Rio Grande do Sul,Feminino
+219.740.836-40,38,183355,Rio de Janeiro,Feminino
+514.237.890-32,22,82011,Minas Gerais,Feminino
+602.751.348-90,31,118745,Pernambuco,Feminino
+786.514.302-80,30,453797,Rio Grande do Sul,Feminino
+315.206.789-59,27,466301,Rio de Janeiro,Feminino
+354.761.980-75,24,401481,Tocantins,Feminino
+032.759.614-70,26,238974,Paraíba,Feminino
+723.941.680-13,45,367103,Mato Grosso do Sul,Feminino
+572.341.906-43,28,108799,Paraná,Masculino
+218.934.657-64,27,308501,São Paulo,Feminino
+168.539.204-06,24,37415,São Paulo,Feminino
+195.027.463-25,22,428727,Rio de Janeiro,Masculino
+249.613.857-19,23,412042,Mato Grosso,Masculino
+970.264.318-03,19,59898,São Paulo,Feminino
+206.897.453-38,21,391594,São Paulo,Masculino
+892.103.576-12,31,233294,Minas Gerais,Feminino
+062.453.719-61,22,157376,Mato Grosso,Feminino
+573.961.804-57,33,428566,Espírito Santo,Feminino
+340.287.169-69,21,180179,Amapá,Feminino
+570.632.819-68,31,329581,Sergipe,Feminino
+053.461.798-01,22,110164,Rio Grande do Sul,Feminino
+793.068.154-84,29,488174,Minas Gerais,Masculino
+673.804.291-40,21,44975,Rio Grande do Norte,Masculino
+893.125.467-91,37,361074,Mato Grosso do Sul,Feminino
+935.271.840-23,20,316541,Minas Gerais,Feminino
+257.409.381-04,30,251296,Mato Grosso do Sul,Feminino
+208.961.573-77,27,57775,Roraima,Feminino
+783.519.406-66,28,198345,Mato Grosso,Masculino
+329.584.670-74,27,155663,Amazonas,Feminino
+813.574.692-09,21,319077,Mato Grosso,Feminino
+683.294.170-69,31,260408,São Paulo,Feminino
+082.593.614-42,21,498137,Santa Catarina,Feminino
+741.068.352-07,31,267885,Rio Grande do Norte,Feminino
+496.258.371-91,31,438238,Mato Grosso do Sul,Feminino
+813.769.524-91,32,392389,Minas Gerais,Feminino
+513.672.098-03,29,280428,Rio Grande do Norte,Feminino
+369.507.148-66,45,158824,Espírito Santo,Masculino
+745.293.106-80,26,161948,Amazonas,Feminino
+642.310.579-07,19,269442,Rio Grande do Sul,Feminino
+453.892.710-41,25,390973,Sergipe,Feminino
+786.513.920-95,26,109015,Roraima,Feminino
+618.742.059-49,25,306777,Mato Grosso do Sul,Masculino
+839.620.145-51,26,239185,Minas Gerais,Masculino
+941.037.256-99,47,141623,Pará,Feminino
+429.178.603-40,39,286016,Rio Grande do Norte,Masculino
+769.804.253-74,37,289307,Santa Catarina,Feminino
+749.518.620-85,28,374209,Roraima,Masculino
+107.589.326-77,22,162387,Minas Gerais,Feminino
+845.631.920-15,19,231799,Roraima,Masculino
+503.964.218-06,27,307677,Rondônia,Feminino
+938.406.175-10,28,341407,Rio Grande do Sul,Masculino
+429.536.817-28,25,165611,Pará,Feminino
+843.159.207-97,22,260447,Amazonas,Masculino
+810.623.457-62,40,46721,Sergipe,Feminino
+268.709.415-30,29,106745,Pernambuco,Feminino
+793.852.641-09,55,425585,Roraima,Feminino
+503.487.621-35,33,388446,Mato Grosso,Feminino
+361.720.985-86,26,446953,Tocantins,Feminino
+579.014.382-23,35,324332,Piauí,Feminino
+098.417.563-66,37,279332,Santa Catarina,Feminino
+682.439.710-50,47,173273,Rio Grande do Sul,Masculino
+850.324.971-50,24,184174,Minas Gerais,Feminino
+609.271.583-02,23,264435,São Paulo,Feminino
+059.816.347-66,34,291689,Amapá,Feminino
+417.692.038-69,27,171606,Mato Grosso do Sul,Feminino
+250.679.348-83,25,354379,Acre,Feminino
+083.596.714-00,29,355953,São Paulo,Feminino
+472.156.098-20,31,404396,Santa Catarina,Feminino
+421.830.769-50,36,457146,Mato Grosso,Feminino
+985.604.123-60,35,432133,Rio Grande do Sul,Feminino
+863.912.705-03,48,303336,Rondônia,Feminino
+754.206.189-58,19,167113,Mato Grosso do Sul,Feminino
+597.604.123-06,26,136518,São Paulo,Feminino
+674.519.238-19,26,155280,Pará,Feminino
+164.958.072-01,20,309188,Tocantins,Feminino
+892.371.645-64,18,33899,Distrito Federal,Feminino
+273.610.459-52,24,386314,Minas Gerais,Feminino
+624.135.079-06,23,264716,Paraná,Feminino
+873.562.914-28,30,219807,Santa Catarina,Feminino
+531.902.876-86,37,263912,Santa Catarina,Masculino
+769.415.820-49,44,214059,Santa Catarina,Feminino
+364.780.915-20,25,120224,Santa Catarina,Feminino
+528.170.943-79,33,299402,Maranhão,Masculino
+651.049.823-51,37,473637,Espírito Santo,Feminino
+165.802.347-17,37,223434,Minas Gerais,Feminino
+130.948.526-70,21,184236,Sergipe,Feminino
+953.621.780-59,35,189933,São Paulo,Feminino
+642.713.890-13,23,192217,Santa Catarina,Masculino
+120.458.637-35,36,218023,Paraná,Masculino
+594.826.173-55,21,50620,Goiás,Feminino
+153.986.074-48,30,114552,São Paulo,Feminino
+402.583.619-05,35,361593,Santa Catarina,Feminino
+873.214.609-40,20,43380,Paraná,Masculino
+863.941.570-66,30,391089,Distrito Federal,Feminino
+634.150.987-10,36,154826,Rio Grande do Norte,Feminino
+725.306.419-43,29,371629,Distrito Federal,Feminino
+034.896.512-51,52,244611,Rondônia,Feminino
+792.563.180-59,30,362196,Amazonas,Masculino
+302.461.579-25,28,496258,Minas Gerais,Feminino
+845.139.026-98,19,332311,Rio de Janeiro,Feminino
+625.483.791-91,36,21471,Rio de Janeiro,Masculino
+746.182.059-11,25,365107,Santa Catarina,Feminino
+730.418.526-08,42,297875,Rio de Janeiro,Masculino
+579.203.184-32,27,56504,Pernambuco,Feminino
+935.072.841-97,30,479160,Paraná,Feminino
+358.421.076-35,24,489508,São Paulo,Feminino
+296.481.730-87,33,219690,Sergipe,Feminino
+306.279.451-80,24,469303,São Paulo,Feminino
+502.318.796-95,23,305520,Goiás,Feminino
+074.268.913-13,32,164500,Paraíba,Feminino
+758.461.392-64,23,283020,Rio Grande do Sul,Masculino
+078.214.593-05,55,394091,Minas Gerais,Masculino
+259.876.310-68,23,272837,São Paulo,Feminino
+250.867.319-68,38,311621,São Paulo,Feminino
+147.530.962-70,38,235031,Amazonas,Feminino
+325.014.967-52,27,477179,Rio de Janeiro,Feminino
+562.701.849-67,33,296125,Minas Gerais,Feminino
+158.926.034-15,22,434628,Santa Catarina,Feminino
+083.456.792-00,26,496021,Pará,Feminino
+438.765.109-10,28,295463,Rio Grande do Sul,Feminino
+653.427.981-91,19,116066,Pernambuco,Feminino
+483.120.965-15,26,455924,Goiás,Feminino
+435.962.081-06,19,497088,Mato Grosso do Sul,Masculino
+796.350.284-74,37,492817,Alagoas,Feminino
+832.147.509-41,26,127169,Rio de Janeiro,Masculino
+491.678.302-69,33,65216,Distrito Federal,Feminino
+504.382.169-89,22,158840,Rio Grande do Norte,Feminino
+461.572.093-99,23,138208,Mato Grosso do Sul,Feminino
+310.982.754-97,23,462084,Santa Catarina,Feminino
+721.689.053-12,53,309923,Espírito Santo,Feminino
+671.035.849-66,21,76925,Mato Grosso,Feminino
+839.654.127-28,18,326749,Santa Catarina,Masculino
+806.514.732-17,30,127602,Amazonas,Feminino
+943.805.127-97,25,193691,Santa Catarina,Masculino
+597.642.381-73,21,266917,Pará,Masculino
+461.590.372-34,28,314441,Mato Grosso do Sul,Masculino
+913.625.847-46,31,169658,Rio Grande do Sul,Feminino
+759.468.213-00,22,274324,Goiás,Feminino
+071.349.586-39,52,436331,Minas Gerais,Feminino
+163.509.847-57,22,267609,Rio de Janeiro,Masculino
+405.683.719-84,32,148389,Rio de Janeiro,Masculino
+798.510.346-57,22,487101,Distrito Federal,Masculino
+093.218.574-60,22,466122,Minas Gerais,Feminino
+809.427.561-85,28,20978,Rio Grande do Norte,Feminino
+704.832.156-35,33,61175,Mato Grosso,Masculino
+095.124.376-43,23,62729,Ceará,Feminino
+269.457.138-73,18,131402,Rio Grande do Sul,Masculino
+548.930.126-06,35,157013,Rio de Janeiro,Feminino
+382.571.609-03,28,152664,Distrito Federal,Feminino
+019.875.432-97,21,118827,Santa Catarina,Feminino
+941.237.580-88,19,81962,Rio de Janeiro,Masculino
+468.932.150-70,43,259071,Santa Catarina,Masculino
+857.309.641-10,21,216495,Rio de Janeiro,Masculino
+842.650.193-15,33,151725,Rio de Janeiro,Feminino
+028.547.319-05,20,352546,Sergipe,Feminino
+723.140.895-88,27,144247,Tocantins,Feminino
+782.364.059-74,20,28115,São Paulo,Masculino
+265.413.907-70,20,473653,Santa Catarina,Masculino
+458.190.267-30,19,494612,Acre,Feminino
+692.580.374-56,23,379648,Rio Grande do Sul,Feminino
+431.569.702-80,22,169818,Paraná,Masculino
+157.238.604-53,27,53910,Goiás,Feminino
+938.265.710-02,31,188353,Pará,Feminino
+597.306.124-80,53,136564,Rio Grande do Sul,Masculino
+175.906.234-07,29,463962,Mato Grosso,Feminino
+289.456.703-00,31,212398,Santa Catarina,Masculino
+821.359.467-37,25,99386,Rio de Janeiro,Feminino
+914.627.035-34,28,378997,São Paulo,Masculino
+851.723.049-32,39,322438,Paraíba,Masculino
+569.340.217-70,20,470129,Sergipe,Feminino
+302.871.695-02,39,231167,Amapá,Masculino
+509.136.842-60,23,26773,Rio Grande do Sul,Feminino
+795.436.081-48,33,250343,São Paulo,Masculino
+603.571.842-62,33,249442,Pará,Masculino
+127.843.695-28,31,98632,Ceará,Feminino
+534.108.697-00,30,306363,Goiás,Masculino
+628.045.371-53,51,322834,Rio de Janeiro,Feminino
+386.091.742-04,37,287679,Pará,Feminino
+273.051.486-44,21,412330,Tocantins,Masculino
+648.297.150-49,30,418617,Goiás,Feminino
+319.862.047-31,29,223439,Goiás,Masculino
+146.970.825-67,18,298672,São Paulo,Feminino
+410.578.639-39,18,359000,Pará,Masculino
+648.172.350-71,27,417005,Mato Grosso do Sul,Feminino
+437.260.185-90,26,55528,Santa Catarina,Feminino
+476.523.901-25,28,146465,Rio de Janeiro,Masculino
+574.260.831-44,29,494093,Rio de Janeiro,Masculino
+045.926.713-25,36,50673,São Paulo,Feminino
+632.810.947-40,20,141436,São Paulo,Feminino
+198.450.376-66,18,192435,Espírito Santo,Feminino
+495.813.760-20,20,222935,Alagoas,Feminino
+108.927.534-04,20,129711,Rio de Janeiro,Feminino
+567.481.239-09,32,134894,Tocantins,Feminino
+102.834.579-88,23,37508,Tocantins,Masculino
+397.152.408-79,49,28856,Goiás,Feminino
+430.967.521-25,55,129103,Paraíba,Masculino
+493.681.075-48,29,377102,Rio de Janeiro,Feminino
+284.963.715-73,23,201524,Distrito Federal,Feminino
+296.378.150-40,20,411766,Mato Grosso do Sul,Feminino
+132.540.869-70,28,383867,Rio Grande do Norte,Feminino
+918.043.256-51,25,353386,Pará,Masculino
+201.978.653-21,30,413908,Pará,Masculino
+238.095.714-23,30,27720,Mato Grosso do Sul,Feminino
+415.732.689-09,35,271244,Pará,Feminino
+083.576.194-01,22,424172,Rio de Janeiro,Masculino
+345.872.960-74,38,93571,São Paulo,Feminino
+947.365.018-39,23,270405,Amazonas,Feminino
+854.269.017-67,34,131346,Pará,Masculino
+052.631.497-43,24,440913,Sergipe,Feminino
+317.590.248-05,53,192472,Amazonas,Feminino
+791.260.854-02,36,457188,Minas Gerais,Masculino
+529.643.871-09,21,84847,Distrito Federal,Feminino
+981.723.506-86,26,291128,Rio Grande do Sul,Feminino
+803.752.946-00,41,298229,Rio de Janeiro,Masculino
+815.264.037-90,25,121288,Mato Grosso do Sul,Masculino
+068.347.512-62,20,300217,Rio de Janeiro,Feminino
+309.851.276-86,30,187938,Rio de Janeiro,Feminino
+208.391.567-40,24,278645,Mato Grosso,Feminino
+896.257.013-03,21,346294,Rio de Janeiro,Feminino
+375.048.129-60,55,355411,Rio Grande do Sul,Masculino
+167.359.082-95,30,356906,Rio de Janeiro,Feminino
+534.128.076-80,46,58657,Rio Grande do Sul,Feminino
+205.987.341-04,54,108223,Santa Catarina,Masculino
+825.746.093-10,19,264920,São Paulo,Masculino
+870.163.294-96,20,391796,Santa Catarina,Feminino
+051.893.672-40,21,461710,Paraná,Masculino
+403.126.857-26,48,474646,Pará,Feminino
+167.852.043-80,25,472477,Minas Gerais,Feminino
+047.328.561-44,29,305643,Rio de Janeiro,Feminino
+538.412.709-05,29,422188,Paraíba,Feminino
+396.075.184-20,33,340624,Acre,Masculino
+510.284.973-50,31,310950,Minas Gerais,Feminino
+184.026.935-98,40,431610,Mato Grosso,Feminino
+230.497.186-50,29,363731,Mato Grosso do Sul,Masculino
+043.852.719-41,20,107490,Paraíba,Masculino
+865.219.470-01,47,388220,Pará,Feminino
+920.438.157-41,23,329096,São Paulo,Masculino
+731.956.028-30,25,226835,Pernambuco,Feminino
+169.504.783-48,33,171069,Distrito Federal,Feminino
+215.678.403-53,18,168293,Rio Grande do Norte,Feminino
+204.857.361-44,52,156914,Amapá,Feminino
+950.148.637-01,20,343402,Mato Grosso,Masculino
+173.429.865-00,25,74594,Distrito Federal,Feminino
+528.703.491-14,18,260145,Rio Grande do Sul,Feminino
+324.781.065-07,25,144024,Rondônia,Feminino
+960.851.743-57,28,233184,Minas Gerais,Masculino
+106.893.425-51,33,473408,Alagoas,Feminino
+274.503.681-53,24,209965,Rio de Janeiro,Feminino
+061.725.439-70,25,295658,Rio Grande do Sul,Feminino
+654.239.178-91,18,396866,Rio Grande do Sul,Masculino
+403.576.198-20,18,157848,São Paulo,Feminino
+871.923.056-77,47,57505,Amazonas,Masculino
+135.279.640-61,24,188076,Espírito Santo,Masculino
+074.529.168-67,22,450248,Amapá,Masculino
+154.867.390-01,28,431020,Paraná,Feminino
+502.476.918-01,23,477438,Rio Grande do Sul,Masculino
+041.729.836-69,22,230768,Pará,Feminino
+743.526.890-92,24,371253,Amapá,Feminino
+417.965.280-30,51,140475,Sergipe,Feminino
+917.632.048-04,31,98129,Rio Grande do Sul,Feminino
+302.586.471-08,18,442381,São Paulo,Feminino
+815.734.092-60,52,409535,Distrito Federal,Feminino
+816.725.904-85,48,433351,Amazonas,Masculino
+731.658.942-64,29,344971,Paraná,Feminino
+450.183.267-35,39,421518,Rio Grande do Sul,Masculino
+749.623.018-96,24,324025,Espírito Santo,Feminino
+870.615.439-57,36,474731,Alagoas,Feminino
+539.742.086-74,24,165040,Distrito Federal,Masculino
+640.518.372-62,34,235274,Rio Grande do Norte,Feminino
+187.543.029-60,18,52151,Amapá,Feminino
+678.231.590-40,52,166283,Rio Grande do Sul,Masculino
+326.945.708-10,34,49436,Santa Catarina,Feminino
+580.976.214-01,50,390607,Rio Grande do Sul,Feminino
+789.510.634-10,18,471646,São Paulo,Feminino
+386.210.794-96,24,185632,Rio de Janeiro,Feminino
+401.387.652-35,20,399672,Goiás,Masculino
+436.851.729-64,28,437973,Sergipe,Feminino
+236.859.714-09,18,196661,Rio Grande do Norte,Feminino
+864.732.501-07,38,353602,Minas Gerais,Feminino
+362.570.419-61,23,87592,São Paulo,Feminino
+965.240.317-25,19,119385,Goiás,Masculino
+124.689.735-00,50,264943,Pará,Masculino
+901.847.265-49,28,41195,Rio de Janeiro,Masculino
+270.134.965-61,37,314776,Paraná,Feminino
+647.120.835-90,39,463121,Santa Catarina,Feminino
+261.735.409-16,41,274902,Minas Gerais,Masculino
+253.760.418-08,22,327686,Roraima,Masculino
+385.916.427-91,21,274483,Pará,Masculino
+741.860.529-30,38,239194,São Paulo,Masculino
+048.397.521-41,52,222301,Goiás,Feminino
+431.708.925-41,22,81995,Goiás,Masculino
+342.508.796-74,22,251128,Pará,Masculino

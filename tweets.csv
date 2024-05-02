@@ -1,0 +1,801 @@
+Usuário,Sexo,Data,Sentimento
+Manuela da Costa,F,2023-06-26 01:00:53,Negativo
+Maria Helena Siqueira,F,2023-01-18 02:35:37,Positivo
+Gabrielly Mendes,F,2023-04-28 11:54:14,Positivo
+Isadora Nascimento,F,2023-11-15 02:06:48,Positivo
+Sr. Vicente Brito,M,2023-07-27 10:24:42,Negativo
+Laura Rios,F,2023-07-28 04:47:58,Negativo
+Juan da Mota,M,2023-08-16 20:20:42,Negativo
+Paulo Cavalcanti,M,2023-05-29 23:32:18,Positivo
+Caio Nascimento,M,2023-03-20 13:11:03,Positivo
+Apollo Lima,M,2023-03-28 09:51:10,Positivo
+Heloisa Pastor,F,2023-11-10 00:10:06,Positivo
+Marcela Cassiano,F,2023-09-13 01:17:20,Negativo
+Hellena Borges,F,2023-08-05 06:08:19,Positivo
+Dr. Isaque Mendes,M,2023-03-26 04:42:53,Negativo
+Luiz Henrique da Cunha,M,2023-01-19 14:58:16,Positivo
+Manuella Mendonça,F,2023-09-17 19:24:05,Negativo
+Mariah Moraes,F,2023-10-18 06:34:19,Negativo
+Heitor Moraes,M,2023-09-07 21:28:44,Positivo
+Mateus Brito,M,2023-07-04 14:29:34,Negativo
+Dr. Kevin Araújo,M,2023-05-19 04:35:45,Negativo
+Srta. Ana Vitória Souza,F,2023-08-31 18:56:03,Negativo
+Arthur Nunes,M,2023-02-21 09:25:46,Positivo
+Maitê Cavalcanti,F,2023-02-07 08:37:23,Negativo
+Enzo Pinto,M,2023-03-25 17:53:06,Positivo
+Sra. Olivia Azevedo,F,2023-11-14 13:15:17,Positivo
+Matteo Andrade,M,2023-06-23 21:02:06,Negativo
+Davi Lucca Almeida,M,2023-08-20 23:50:59,Positivo
+Maria Isis Ribeiro,F,2023-09-19 20:20:37,Negativo
+Sr. Arthur Porto,M,2023-07-04 01:06:54,Negativo
+Caio Azevedo,M,2023-06-02 00:31:44,Positivo
+Pietro Melo,M,2023-07-06 14:38:52,Negativo
+Helena Cardoso,F,2023-10-08 15:23:07,Positivo
+Bryan Lopes,M,2023-09-25 08:22:51,Positivo
+Sophie Moraes,F,2023-07-23 01:43:45,Positivo
+Asafe Costa,M,2023-06-25 02:45:43,Positivo
+Rafael da Mata,M,2023-01-20 18:58:17,Positivo
+Emanuelly Pereira,F,2023-10-20 21:16:00,Negativo
+Vicente Pacheco,M,2023-08-31 04:38:28,Negativo
+Sara Aragão,F,2023-08-12 16:35:31,Positivo
+Mariah Oliveira,F,2023-01-02 03:49:39,Positivo
+Antonella Gonçalves,F,2023-03-25 00:07:49,Positivo
+Mariah Guerra,F,2023-02-15 14:26:37,Negativo
+Lucas Brito,M,2023-10-15 11:03:51,Negativo
+Bárbara Albuquerque,F,2023-04-04 05:03:34,Positivo
+Maria Clara Azevedo,F,2023-11-18 21:30:56,Positivo
+Brayan Caldeira,M,2023-01-02 05:51:36,Positivo
+Dra. Heloísa Ribeiro,F,2023-03-07 12:43:44,Negativo
+Ravy Andrade,M,2023-12-17 01:23:36,Positivo
+Marcelo Cardoso,M,2023-01-30 14:43:31,Positivo
+Maya Araújo,F,2023-06-19 01:25:21,Negativo
+Pedro Miguel Barros,M,2023-12-09 14:51:15,Negativo
+Maysa Dias,F,2023-05-15 17:45:50,Positivo
+Agatha Mendes,F,2023-02-27 19:51:40,Positivo
+Ravy Viana,M,2023-11-04 21:45:50,Negativo
+Ravy Correia,M,2023-11-22 05:26:54,Negativo
+Ísis Guerra,F,2023-07-24 17:38:26,Negativo
+Kevin Fernandes,M,2023-09-27 18:07:02,Positivo
+Pedro Lucas Monteiro,M,2023-04-18 09:04:50,Negativo
+Luiz Otávio Barbosa,M,2023-05-22 15:32:09,Positivo
+Igor Castro,M,2023-06-06 22:27:40,Negativo
+Caio Pinto,M,2023-02-12 06:45:15,Positivo
+Sr. Caio Lopes,M,2023-03-31 10:14:21,Positivo
+Maya Ferreira,F,2023-04-22 17:11:49,Negativo
+Olívia Vieira,F,2023-08-02 22:44:58,Negativo
+João Porto,M,2023-07-31 21:48:17,Negativo
+Dra. Rebeca Aparecida,F,2023-06-16 12:42:05,Negativo
+Srta. Emilly Costa,F,2023-10-28 01:45:53,Positivo
+Theo Moura,M,2023-06-03 14:46:34,Positivo
+Bianca Peixoto,F,2023-10-06 10:54:55,Negativo
+Pietra Duarte,F,2023-09-26 06:25:35,Positivo
+Cecilia Pimenta,F,2023-07-18 18:56:44,Negativo
+Pedro Miguel Duarte,M,2023-08-09 21:04:18,Negativo
+Dr. Arthur Miguel Teixeira,M,2023-04-04 13:51:25,Negativo
+Sr. Ravy Viana,M,2023-04-01 16:38:43,Negativo
+Dr. Oliver Cunha,M,2023-05-13 10:03:50,Positivo
+Sra. Isabelly Caldeira,F,2023-10-07 16:43:16,Negativo
+Benício Freitas,M,2023-12-23 02:41:47,Positivo
+Srta. Valentina Jesus,F,2023-04-07 21:41:51,Negativo
+Sr. Thales Barros,M,2023-06-09 10:45:36,Positivo
+Liz Costa,F,2023-10-24 21:35:28,Negativo
+Gael Casa Grande,M,2023-07-20 17:47:47,Positivo
+Rael Cavalcante,M,2023-03-24 22:56:00,Negativo
+Agatha Gomes,F,2023-08-09 21:14:41,Negativo
+Kaique Pacheco,M,2023-08-21 16:19:10,Positivo
+Dr. José Guerra,M,2023-12-08 21:34:22,Negativo
+Evelyn Camargo,F,2023-10-05 06:43:41,Negativo
+Emanuella Moraes,F,2023-02-24 01:21:54,Positivo
+Antônio Farias,M,2023-05-19 06:16:37,Negativo
+Gabriel Sousa,M,2023-01-08 02:16:48,Negativo
+Kevin Fonseca,M,2023-02-02 03:04:51,Negativo
+Sra. Ana Vitória Jesus,F,2023-01-24 05:33:51,Positivo
+Srta. Beatriz Camargo,F,2023-06-21 16:01:45,Negativo
+Ana Carolina da Costa,F,2023-05-24 22:04:17,Positivo
+Vitor Hugo Borges,M,2023-06-21 12:47:10,Negativo
+Dr. Augusto Costela,M,2023-06-02 04:53:17,Positivo
+Maria Laura Andrade,F,2023-09-07 16:56:39,Negativo
+Sabrina Monteiro,F,2023-10-08 22:07:02,Positivo
+Cauê Sá,M,2023-09-11 15:17:33,Negativo
+Esther Fogaça,F,2023-04-10 00:06:54,Positivo
+Eloá Teixeira,F,2023-03-20 22:21:28,Negativo
+Helena Correia,F,2023-01-10 04:28:45,Negativo
+Raul Cavalcante,M,2023-07-28 12:42:58,Positivo
+Emilly Pastor,F,2023-01-04 00:15:58,Positivo
+Beatriz Pires,F,2023-03-09 04:47:13,Positivo
+Evelyn Nogueira,F,2023-02-25 15:57:35,Negativo
+Maria Silveira,F,2023-03-11 14:36:37,Negativo
+Dra. Isadora Casa Grande,F,2023-08-26 14:25:12,Positivo
+Luísa da Costa,F,2023-12-19 12:04:23,Negativo
+Davi Oliveira,M,2023-04-26 07:23:08,Negativo
+Sophie Pereira,F,2023-05-24 19:28:46,Negativo
+Gabriela Câmara,F,2023-03-08 10:03:08,Negativo
+Enzo Silveira,M,2023-02-08 00:56:52,Negativo
+Sr. Brayan da Mota,M,2023-06-16 01:22:40,Negativo
+Maria Clara Guerra,F,2023-08-14 08:06:45,Negativo
+Sr. Luiz Otávio da Rosa,M,2023-12-28 02:11:18,Negativo
+Guilherme Oliveira,M,2023-08-24 11:36:24,Negativo
+Joaquim Andrade,M,2023-12-20 22:49:35,Negativo
+Alana Araújo,F,2023-10-23 14:53:59,Positivo
+Luísa da Paz,F,2023-11-02 12:22:43,Negativo
+Dr. Benjamin Pinto,M,2023-10-06 00:24:12,Positivo
+Diego Montenegro,M,2023-05-23 12:00:47,Negativo
+Maria Helena Cassiano,F,2023-01-11 05:56:57,Negativo
+Maria Luiza Cirino,F,2023-10-08 13:03:30,Positivo
+Antony Guerra,M,2023-03-16 13:43:59,Positivo
+Mirella Vieira,F,2023-05-06 04:55:40,Positivo
+Lavínia Almeida,F,2023-05-21 07:07:17,Negativo
+Maria Cecília Cavalcante,F,2023-12-14 11:06:19,Negativo
+Srta. Aylla Casa Grande,F,2023-09-18 22:41:39,Positivo
+Agatha Sousa,F,2023-11-08 06:18:23,Positivo
+Diogo Teixeira,M,2023-12-29 13:53:10,Negativo
+Vitor Machado,M,2023-04-18 00:58:17,Positivo
+Ravi Viana,M,2023-11-03 04:21:59,Negativo
+Brenda Correia,F,2023-12-07 10:45:58,Positivo
+Josué Alves,M,2023-05-27 10:09:06,Positivo
+Liam Porto,M,2023-02-23 13:42:27,Negativo
+Mathias Mendes,M,2023-07-21 02:56:17,Negativo
+Dra. Aylla Cavalcanti,F,2023-10-08 06:49:13,Positivo
+Gael Henrique Silveira,M,2023-09-17 17:37:36,Positivo
+Sr. Rhavi Novaes,M,2023-07-18 07:08:51,Negativo
+Dra. Luiza Oliveira,F,2023-05-16 16:21:09,Negativo
+Joaquim Costa,M,2023-09-19 02:19:33,Negativo
+Luiz Henrique Cassiano,M,2023-10-18 01:12:21,Positivo
+Esther Abreu,F,2023-07-24 03:21:03,Positivo
+Liz Sales,F,2023-10-20 01:03:52,Positivo
+Benjamim Duarte,M,2023-04-22 07:06:30,Positivo
+Luiz Felipe Oliveira,M,2023-10-05 13:38:31,Positivo
+Gabrielly Montenegro,F,2023-02-19 14:45:49,Negativo
+Henry Sales,M,2023-09-02 17:44:41,Positivo
+Dom Silva,M,2023-08-27 11:46:36,Positivo
+Heloísa Marques,F,2023-03-04 07:53:07,Negativo
+Maria Eduarda da Mota,F,2023-02-24 22:29:04,Negativo
+João Lucas Dias,M,2023-11-12 10:05:27,Positivo
+Helena Pires,F,2023-12-28 15:27:00,Negativo
+Pedro Henrique Gomes,M,2023-09-29 18:20:51,Negativo
+Marina Cunha,F,2023-03-23 00:03:16,Positivo
+Sr. Diego Barros,M,2023-05-23 19:23:31,Negativo
+Vitória Fernandes,F,2023-04-05 18:31:33,Negativo
+Camila Nascimento,F,2023-05-30 00:59:26,Positivo
+Luísa Farias,F,2023-02-20 03:50:25,Positivo
+Sra. Maria Sophia Caldeira,F,2023-06-20 18:51:43,Positivo
+Melissa Leão,F,2023-10-29 22:55:29,Negativo
+Diego Dias,M,2023-08-27 16:04:36,Negativo
+Ana Júlia Porto,F,2023-10-22 18:12:56,Negativo
+Maria Luísa Porto,F,2023-03-13 08:05:06,Positivo
+Sr. Rhavi Porto,M,2023-06-03 02:15:28,Negativo
+Vitor Gabriel Leão,M,2023-03-18 11:06:30,Negativo
+Stephany Pinto,F,2023-01-05 03:54:19,Negativo
+Isabella Souza,F,2023-11-24 14:38:03,Positivo
+Bryan Nogueira,M,2023-10-26 05:38:24,Positivo
+João Guilherme Macedo,M,2023-11-27 00:57:19,Positivo
+Alexandre da Costa,M,2023-04-02 03:53:08,Positivo
+Ravi Freitas,M,2023-12-30 05:28:26,Negativo
+Arthur Carvalho,M,2023-02-28 04:58:49,Negativo
+Murilo Siqueira,M,2023-06-02 10:17:05,Positivo
+Valentim Cirino,M,2023-08-06 23:44:33,Positivo
+Calebe Vasconcelos,M,2023-07-11 18:03:27,Positivo
+Srta. Melissa Aparecida,F,2023-01-30 18:30:03,Positivo
+João Azevedo,M,2023-03-30 14:29:42,Positivo
+Pedro Miguel Aragão,M,2023-05-26 17:49:12,Negativo
+Igor da Conceição,M,2023-11-26 14:53:19,Negativo
+Sara Teixeira,F,2023-12-17 21:00:21,Negativo
+Liam da Mata,M,2023-12-27 21:22:23,Negativo
+Sara Ribeiro,F,2023-12-01 17:07:21,Negativo
+Laís Silveira,F,2023-11-08 18:35:06,Positivo
+Maria Alice Camargo,F,2023-04-30 18:29:47,Positivo
+Zoe Jesus,F,2023-09-25 17:06:59,Negativo
+Cecilia Sampaio,F,2023-10-23 06:56:16,Positivo
+Sr. Benjamim Aparecida,M,2023-03-16 12:28:13,Positivo
+Letícia das Neves,F,2023-07-28 05:20:09,Positivo
+Luiza Duarte,F,2023-09-13 00:30:39,Positivo
+Alice Abreu,F,2023-02-03 20:22:54,Negativo
+Clarice Albuquerque,F,2023-10-03 21:39:07,Positivo
+Stephany Ribeiro,F,2023-01-01 18:52:50,Positivo
+Breno Azevedo,M,2023-01-31 01:13:40,Negativo
+João Vitor Pires,M,2023-02-28 01:14:45,Positivo
+Davi Miguel Casa Grande,M,2023-11-03 00:57:46,Positivo
+Maria Luísa Martins,F,2023-11-03 15:13:14,Negativo
+Eduardo Nunes,M,2023-04-19 01:49:53,Negativo
+Luiz Gustavo Caldeira,M,2023-05-16 20:49:02,Negativo
+Mariane Macedo,F,2023-07-15 12:39:23,Positivo
+Gustavo Rodrigues,M,2023-01-14 18:07:23,Positivo
+Gustavo Pereira,M,2023-01-11 12:39:57,Positivo
+Sra. Eloah Barros,F,2023-12-08 22:55:19,Positivo
+Vicente Ferreira,M,2023-05-12 05:20:30,Positivo
+Isaque Sá,M,2023-11-01 06:06:05,Negativo
+Isadora Cirino,F,2023-04-12 03:40:03,Positivo
+Gustavo Moraes,M,2023-12-28 23:45:14,Positivo
+Elisa Novaes,F,2023-05-28 22:51:43,Negativo
+Dr. Ian da Paz,M,2023-09-11 08:12:29,Negativo
+Maria Liz Siqueira,F,2023-04-09 18:38:36,Negativo
+Sr. Valentim Pastor,M,2023-06-04 21:34:05,Negativo
+Yasmin Pacheco,F,2023-11-09 05:39:21,Positivo
+Nina Silva,F,2023-10-27 06:37:16,Positivo
+Ana Montenegro,F,2023-03-16 04:24:53,Positivo
+João Felipe da Conceição,M,2023-07-07 04:51:07,Positivo
+Srta. Bianca Câmara,F,2023-01-09 10:44:37,Negativo
+Nicolas Farias,M,2023-08-24 16:54:42,Negativo
+Allana Vieira,F,2023-10-05 07:19:57,Positivo
+Pedro Lucas Araújo,M,2023-10-16 01:09:46,Negativo
+Sr. Erick Pinto,M,2023-04-14 17:27:54,Negativo
+Dra. Letícia Almeida,F,2023-12-22 01:49:26,Positivo
+Sara Pastor,F,2023-05-30 01:25:47,Negativo
+Thomas Machado,M,2023-07-25 09:37:21,Positivo
+Luiza Teixeira,F,2023-05-04 11:25:40,Negativo
+Melissa Cardoso,F,2023-11-24 16:02:17,Positivo
+Bárbara Ferreira,F,2023-11-08 22:00:43,Negativo
+Augusto da Costa,M,2023-05-07 22:57:26,Negativo
+Eloá Garcia,F,2023-07-07 02:14:14,Positivo
+Bárbara Viana,F,2023-03-03 07:12:32,Positivo
+Maria Luísa Moura,F,2023-09-06 03:10:44,Negativo
+Emanuella Nogueira,F,2023-12-14 01:12:28,Negativo
+Pietro Rocha,M,2023-03-24 21:06:18,Positivo
+João Miguel Siqueira,M,2023-10-04 15:38:09,Negativo
+Anthony Aparecida,M,2023-11-17 10:11:10,Positivo
+Vitor Hugo da Cunha,M,2023-04-04 17:17:51,Positivo
+Alice Pimenta,F,2023-06-04 19:46:07,Positivo
+Caroline Garcia,F,2023-05-17 05:35:19,Positivo
+Sra. Mariana Dias,F,2023-08-02 05:01:15,Positivo
+Thales Rezende,M,2023-05-06 20:21:07,Positivo
+Samuel da Cruz,M,2023-08-23 11:26:24,Negativo
+Sofia Rodrigues,F,2023-02-05 08:29:38,Negativo
+José Farias,M,2023-05-01 11:08:29,Positivo
+Nathan Castro,M,2023-06-29 22:07:34,Positivo
+Dr. Benjamin da Cunha,M,2023-02-05 09:08:02,Negativo
+Renan Nunes,M,2023-08-24 14:52:23,Negativo
+Luiz Otávio Barros,M,2023-03-02 01:32:32,Negativo
+Sra. Maria Vitória Vasconcelos,F,2023-09-02 20:56:42,Positivo
+Leandro Rezende,M,2023-05-17 22:02:38,Positivo
+Aylla Ferreira,F,2023-06-15 00:50:30,Negativo
+Mathias Aparecida,M,2023-03-03 07:17:28,Positivo
+Raul Freitas,M,2023-08-29 13:04:12,Negativo
+Yan Fernandes,M,2023-09-18 14:47:07,Negativo
+Benicio Costela,M,2023-08-09 14:08:33,Negativo
+Vinicius Casa Grande,M,2023-08-18 01:49:39,Positivo
+Ana Lívia Pastor,F,2023-08-28 15:24:07,Negativo
+Marcela Barros,F,2023-11-16 15:54:16,Negativo
+José Novaes,M,2023-04-30 18:02:54,Negativo
+Diego Porto,M,2023-09-11 17:45:35,Negativo
+Isabella Costa,F,2023-03-29 21:34:11,Negativo
+Maria Júlia Siqueira,F,2023-11-23 09:20:44,Positivo
+Gabriel Leão,M,2023-02-14 17:34:16,Negativo
+Alice Monteiro,F,2023-05-31 22:48:20,Positivo
+Stephany Peixoto,F,2023-04-08 17:28:58,Positivo
+Sr. Vitor Hugo Duarte,M,2023-04-19 21:36:58,Positivo
+Bryan da Paz,M,2023-06-07 09:55:15,Positivo
+Otávio Farias,M,2023-11-21 20:37:55,Positivo
+Pedro Miguel Leão,M,2023-05-15 11:46:47,Positivo
+Sr. Antônio Camargo,M,2023-01-22 14:02:25,Positivo
+Milena Montenegro,F,2023-05-25 01:33:04,Positivo
+Sr. Mateus da Cruz,M,2023-02-27 01:49:53,Negativo
+Sr. Lorenzo Melo,M,2023-03-01 09:32:12,Negativo
+Apollo Rezende,M,2023-07-27 02:23:30,Positivo
+Renan Marques,M,2023-11-26 15:14:40,Positivo
+Bryan Abreu,M,2023-04-04 00:36:21,Negativo
+Maria Cecília Sá,F,2023-08-17 05:40:59,Positivo
+Dra. Alice Ramos,F,2023-08-21 06:07:59,Positivo
+Pedro Lucas Brito,M,2023-04-07 02:33:45,Positivo
+Vinicius da Rocha,M,2023-02-08 14:52:17,Positivo
+Kamilly Silva,F,2023-04-19 10:13:09,Negativo
+Anna Liz Pereira,F,2023-03-14 15:16:43,Negativo
+Danilo da Conceição,M,2023-06-10 06:21:03,Positivo
+João Pedro Vieira,M,2023-07-20 15:03:48,Positivo
+Lorena Sousa,F,2023-10-17 13:28:08,Negativo
+Ana Vitória Marques,F,2023-10-09 20:54:35,Positivo
+Mariane da Paz,F,2023-10-26 07:36:03,Negativo
+Cecília Sousa,F,2023-06-23 02:52:08,Positivo
+Sra. Giovanna Sampaio,F,2023-01-30 01:16:56,Positivo
+José Pacheco,M,2023-05-24 01:29:18,Negativo
+Dra. Julia Pinto,F,2023-10-18 12:18:06,Positivo
+Stephany Azevedo,F,2023-11-07 08:11:37,Negativo
+Asafe Sampaio,M,2023-11-16 14:29:47,Positivo
+Rebeca Lima,F,2023-11-23 17:50:59,Positivo
+Clarice Novaes,F,2023-05-11 12:35:24,Negativo
+Samuel Duarte,M,2023-04-16 05:05:13,Positivo
+Dr. Vinicius Moura,M,2023-02-25 02:46:39,Positivo
+Dr. Lucas Peixoto,M,2023-03-18 01:09:28,Positivo
+Maria Laura da Costa,F,2023-02-23 01:04:53,Negativo
+Dr. Noah Sales,M,2023-07-25 14:11:52,Negativo
+Diogo Guerra,M,2023-10-06 11:57:34,Negativo
+Luiz Fernando Leão,M,2023-12-07 05:33:19,Positivo
+Dra. Letícia Freitas,F,2023-11-16 17:10:56,Negativo
+Mirella Novaes,F,2023-01-25 01:53:43,Positivo
+Rebeca Rodrigues,F,2023-08-20 16:00:38,Positivo
+Liz Farias,F,2023-04-20 21:38:40,Positivo
+Antony Teixeira,M,2023-06-08 02:53:49,Negativo
+Clara Rezende,F,2023-07-25 05:45:10,Positivo
+Bryan Souza,M,2023-07-02 05:18:38,Negativo
+Brenda Guerra,F,2023-07-03 23:01:54,Negativo
+Agatha Pacheco,F,2023-02-28 02:01:08,Negativo
+Vitor Sales,M,2023-09-10 03:21:12,Negativo
+Dante Melo,M,2023-05-14 10:53:33,Positivo
+Henry Gabriel Porto,M,2023-12-08 21:11:39,Negativo
+Miguel Cavalcanti,M,2023-12-17 21:18:15,Positivo
+Srta. Maria Julia Moura,F,2023-10-22 00:37:12,Positivo
+Srta. Ana Vitória Andrade,F,2023-11-06 07:48:07,Positivo
+Sr. Luiz Felipe Vieira,M,2023-03-13 18:57:44,Negativo
+Kaique Guerra,M,2023-12-10 12:10:50,Negativo
+Luiza Campos,F,2023-05-02 18:40:39,Positivo
+Samuel Viana,M,2023-11-30 10:10:15,Negativo
+Ester Cardoso,F,2023-04-07 12:40:27,Positivo
+Antônio Ramos,M,2023-11-25 03:11:27,Negativo
+Léo Cunha,M,2023-08-30 08:17:54,Positivo
+Ana Laura Siqueira,F,2023-03-08 08:39:02,Negativo
+Dr. Lucca Rocha,M,2023-08-10 07:51:30,Positivo
+Heloisa Aparecida,F,2023-01-20 10:49:51,Positivo
+Yasmin Guerra,F,2023-05-19 18:11:13,Negativo
+Hellena Freitas,F,2023-08-25 01:20:14,Negativo
+Theodoro Dias,M,2023-05-01 13:59:22,Negativo
+Juan Rios,M,2023-04-13 12:46:27,Negativo
+Augusto Moraes,M,2023-04-04 09:37:21,Positivo
+Larissa Lima,F,2023-04-19 14:02:58,Positivo
+Isabela Correia,F,2023-07-21 23:09:47,Positivo
+Gael Azevedo,M,2023-06-26 07:22:45,Negativo
+Rodrigo Dias,M,2023-08-05 06:05:09,Positivo
+Esther Nascimento,F,2023-02-25 04:32:11,Negativo
+Rafael da Cunha,M,2023-05-16 07:50:14,Positivo
+Srta. Amanda Lima,F,2023-10-18 22:21:06,Positivo
+Sr. João Lucas Freitas,M,2023-03-18 21:11:12,Positivo
+Isis da Mata,F,2023-06-14 00:34:53,Positivo
+Fernando Pinto,M,2023-08-17 20:37:07,Positivo
+Liz Monteiro,F,2023-03-08 20:42:12,Positivo
+Dr. Igor da Costa,M,2023-10-27 03:49:38,Negativo
+Dr. Luiz Gustavo Silva,M,2023-02-18 13:40:19,Negativo
+Heloisa Câmara,F,2023-05-09 03:54:34,Positivo
+Raul da Mota,M,2023-07-07 23:35:22,Positivo
+Théo Cavalcanti,M,2023-06-13 20:26:56,Negativo
+Benjamin Garcia,M,2023-06-11 09:18:01,Positivo
+Sarah Monteiro,F,2023-10-28 01:19:22,Negativo
+Vinicius da Rosa,M,2023-05-04 05:28:36,Negativo
+Dr. Rhavi Fogaça,M,2023-02-20 11:19:10,Positivo
+Nina Moreira,F,2023-12-26 20:22:50,Negativo
+Rebeca da Cruz,F,2023-08-07 22:25:17,Negativo
+Mariah Souza,F,2023-03-01 23:42:02,Negativo
+Yago Novaes,M,2023-01-08 02:28:40,Negativo
+Luiz Felipe da Paz,M,2023-08-07 16:04:52,Negativo
+Sr. João Felipe Mendonça,M,2023-10-20 11:49:31,Negativo
+Fernando Nunes,M,2023-04-05 05:28:36,Negativo
+Maria Caldeira,F,2023-05-28 18:02:18,Negativo
+Murilo Nunes,M,2023-03-19 12:42:45,Positivo
+Renan Novaes,M,2023-12-27 23:47:33,Positivo
+Thomas Castro,M,2023-03-19 08:51:28,Negativo
+Pedro Henrique Cardoso,M,2023-11-16 14:35:58,Negativo
+Alice Abreu,F,2023-03-20 17:29:11,Positivo
+Dante Nogueira,M,2023-03-24 23:18:41,Positivo
+Isabella Sampaio,F,2023-10-02 12:47:00,Positivo
+Ana Luiza Rocha,F,2023-08-04 22:08:47,Negativo
+Ana Carolina Sales,F,2023-08-11 08:29:31,Positivo
+Jade Rocha,F,2023-02-14 08:04:17,Positivo
+Dr. Gael Moraes,M,2023-04-27 09:31:09,Positivo
+Raul Lima,M,2023-10-20 08:45:30,Negativo
+Sra. Maria Fernanda Cassiano,F,2023-08-27 22:30:44,Positivo
+Vitor Hugo Aragão,M,2023-10-02 06:33:59,Negativo
+Oliver Nogueira,M,2023-12-18 10:57:25,Positivo
+Dr. Oliver Novais,M,2023-03-11 10:37:36,Negativo
+Catarina Rezende,F,2023-08-09 18:08:28,Negativo
+Srta. Heloisa Alves,F,2023-12-01 01:35:36,Negativo
+Cauã Pinto,M,2023-05-18 16:17:02,Negativo
+Sr. Davi Lucca Albuquerque,M,2023-08-27 10:11:47,Negativo
+Caroline Barbosa,F,2023-03-14 02:15:18,Negativo
+Maria Cecília Nogueira,F,2023-05-16 09:53:00,Positivo
+Sr. Ravi Lucca Costa,M,2023-02-01 20:17:18,Positivo
+Heloísa da Mata,F,2023-02-27 09:41:13,Positivo
+Arthur Gabriel Cunha,M,2023-08-09 01:35:09,Negativo
+Alana Azevedo,F,2023-07-18 04:58:14,Positivo
+Nicolas Camargo,M,2023-08-22 05:33:22,Positivo
+Isis Peixoto,F,2023-09-10 06:16:27,Negativo
+Srta. Isabela Costa,F,2023-01-28 19:34:11,Positivo
+Bernardo da Paz,M,2023-02-17 21:10:48,Negativo
+Sr. Mateus Pinto,M,2023-04-16 20:00:55,Positivo
+José Pedro Costa,M,2023-09-18 14:09:57,Negativo
+Apollo Guerra,M,2023-05-19 14:15:51,Positivo
+Maria Vitória Cavalcante,F,2023-07-16 01:59:01,Negativo
+Gustavo Henrique da Conceição,M,2023-04-25 02:45:03,Negativo
+Yan Costa,M,2023-01-26 23:54:53,Positivo
+Maria Isis Casa Grande,F,2023-05-13 11:02:40,Positivo
+Dra. Ester Nascimento,F,2023-08-24 17:31:38,Positivo
+Raquel Rios,F,2023-09-08 18:01:22,Negativo
+Maria Vitória Pires,F,2023-01-08 22:11:12,Positivo
+Eloá Pires,F,2023-06-18 18:18:57,Positivo
+Sarah Siqueira,F,2023-03-23 16:35:13,Negativo
+Yan Nunes,M,2023-08-07 04:11:20,Negativo
+Felipe da Rosa,M,2023-02-03 16:34:28,Positivo
+Sra. Ana Clara Viana,F,2023-11-21 10:42:58,Positivo
+Leandro Sá,M,2023-11-16 19:13:09,Positivo
+Laís Farias,F,2023-03-20 15:24:28,Positivo
+Luísa Vasconcelos,F,2023-02-04 17:30:56,Negativo
+Antonella Novais,F,2023-10-20 06:45:37,Positivo
+Lucas Garcia,M,2023-04-20 07:49:43,Negativo
+Davi Lucca Pires,M,2023-04-12 07:35:53,Positivo
+Rafael Ribeiro,M,2023-10-05 13:44:27,Negativo
+Dra. Isabela Sá,F,2023-06-16 15:20:09,Positivo
+Henry da Mata,M,2023-02-06 20:07:42,Positivo
+Dr. Rael Rocha,M,2023-03-14 12:32:17,Positivo
+Matteo Cirino,M,2023-10-10 05:11:15,Positivo
+Cecília Ramos,F,2023-05-20 13:18:32,Negativo
+Nathan Santos,M,2023-01-31 18:45:31,Negativo
+Srta. Maria Alice Casa Grande,F,2023-03-12 23:25:54,Positivo
+Rebeca Machado,F,2023-01-07 14:53:34,Negativo
+Luiz Fernando Sales,M,2023-06-14 21:30:36,Positivo
+Marcela das Neves,F,2023-10-11 11:14:45,Negativo
+Théo Cavalcanti,M,2023-11-19 14:46:02,Negativo
+Matteo Cassiano,M,2023-05-26 19:23:25,Negativo
+Arthur Miguel Pinto,M,2023-05-06 01:57:29,Negativo
+Mathias Ferreira,M,2023-09-18 11:29:57,Positivo
+Caio Rocha,M,2023-06-20 07:17:51,Positivo
+João Gabriel Campos,M,2023-06-18 00:14:40,Positivo
+João Lucas Siqueira,M,2023-08-22 15:46:37,Negativo
+Cecilia Sá,F,2023-05-26 21:15:46,Negativo
+Isadora Pereira,F,2023-04-17 04:48:49,Positivo
+Enrico Moura,M,2023-06-01 12:51:34,Negativo
+Isabel Mendes,F,2023-01-19 10:01:51,Negativo
+Stephany Lopes,F,2023-07-17 02:13:32,Positivo
+Dra. Olívia Vieira,F,2023-08-30 06:47:05,Negativo
+Lucas Gabriel Cavalcante,M,2023-02-18 02:35:12,Positivo
+Luísa Cunha,F,2023-08-12 05:54:39,Negativo
+Mariane Pacheco,F,2023-03-04 09:12:06,Negativo
+Maria Flor Castro,F,2023-03-02 11:46:53,Positivo
+Lívia Silva,F,2023-05-25 07:02:46,Negativo
+Oliver Santos,M,2023-08-22 07:59:21,Positivo
+Marina da Cruz,F,2023-04-10 18:11:17,Negativo
+Nicole Melo,F,2023-04-15 10:24:50,Positivo
+Lucca Pimenta,M,2023-05-12 01:12:35,Negativo
+Catarina Lopes,F,2023-05-08 21:59:44,Negativo
+Ravi Lucca Lima,M,2023-12-14 07:09:30,Positivo
+Enzo Gabriel Silva,M,2023-11-14 16:22:16,Positivo
+Luiz Fernando Camargo,M,2023-04-26 09:30:38,Negativo
+Carolina Pinto,F,2023-11-04 16:36:02,Positivo
+Sra. Caroline Rios,F,2023-12-20 14:31:33,Negativo
+Aylla Fernandes,F,2023-12-21 16:37:17,Negativo
+Dr. João Vitor Costa,M,2023-05-04 11:43:52,Negativo
+Srta. Sophie Martins,F,2023-09-24 14:24:59,Negativo
+Davi Lucas Camargo,M,2023-01-22 00:28:36,Negativo
+Beatriz Sampaio,F,2023-03-28 23:00:05,Negativo
+Luiz Fernando Rocha,M,2023-03-14 22:38:43,Negativo
+Guilherme Moreira,M,2023-03-07 11:37:24,Negativo
+Vitor Rios,M,2023-05-08 17:57:40,Negativo
+Sra. Yasmin Pinto,F,2023-02-01 14:07:47,Positivo
+Emanuella Ferreira,F,2023-09-10 19:14:24,Negativo
+Maria Eduarda Fogaça,F,2023-11-06 14:47:10,Negativo
+Josué Azevedo,M,2023-09-21 11:35:30,Positivo
+Dr. Pedro Lucas Cavalcanti,M,2023-10-21 02:18:00,Positivo
+Giovanna Pimenta,F,2023-10-09 04:17:42,Negativo
+Ana Julia Vieira,F,2023-01-19 15:29:44,Positivo
+Dra. Maria Flor Siqueira,F,2023-05-02 07:13:39,Positivo
+Bryan Aparecida,M,2023-07-31 04:20:19,Positivo
+Caroline Costela,F,2023-03-25 09:14:39,Positivo
+Lucas Gabriel Peixoto,M,2023-12-22 21:09:43,Negativo
+Agatha Santos,F,2023-09-22 09:37:20,Positivo
+Lucca Casa Grande,M,2023-08-23 08:06:20,Negativo
+Sr. Antony Leão,M,2023-02-17 14:00:37,Negativo
+Erick Melo,M,2023-03-29 22:42:37,Positivo
+Srta. Liz Sales,F,2023-11-16 01:39:40,Positivo
+Ana Liz Souza,F,2023-05-28 07:50:26,Positivo
+Larissa Sampaio,F,2023-11-08 02:16:40,Positivo
+Maria Isis Pinto,F,2023-03-03 08:38:19,Negativo
+Marcos Vinicius Teixeira,M,2023-10-27 14:51:33,Negativo
+Isis Moreira,F,2023-11-19 01:02:37,Positivo
+Dra. Sara da Conceição,F,2023-06-27 11:20:44,Positivo
+Diogo Lopes,M,2023-07-19 08:41:39,Positivo
+Daniela Moura,F,2023-04-01 02:50:56,Positivo
+Allana Pires,F,2023-11-24 10:28:28,Negativo
+Carlos Eduardo Rocha,M,2023-02-25 04:45:25,Negativo
+Isabella Duarte,F,2023-10-05 13:08:11,Negativo
+Mariah Cardoso,F,2023-06-23 09:31:31,Positivo
+Sra. Ana Lívia Santos,F,2023-03-02 18:25:36,Negativo
+João Vitor Lima,M,2023-10-15 01:03:58,Negativo
+Antônio Vieira,M,2023-05-05 18:41:16,Negativo
+Ana Beatriz Porto,F,2023-02-26 10:40:50,Negativo
+Ana Lívia Alves,F,2023-01-21 16:29:03,Negativo
+Lívia Almeida,F,2023-07-03 21:38:52,Negativo
+João Melo,M,2023-03-01 21:41:33,Negativo
+Dr. Isaac Machado,M,2023-03-12 06:53:39,Negativo
+Alana Albuquerque,F,2023-03-07 07:05:48,Positivo
+Srta. Nicole da Mota,F,2023-08-06 19:46:00,Positivo
+Lucca Silveira,M,2023-06-03 04:59:24,Negativo
+Sra. Eloá Martins,F,2023-12-14 15:38:46,Negativo
+Lucas Gabriel Duarte,M,2023-04-01 10:24:04,Negativo
+Sra. Evelyn Nogueira,F,2023-11-17 01:29:17,Negativo
+Igor Abreu,M,2023-03-31 06:48:33,Positivo
+Sr. Vitor Hugo Carvalho,M,2023-10-06 00:01:22,Negativo
+Thomas Alves,M,2023-10-05 23:24:42,Negativo
+Enzo da Cruz,M,2023-08-05 10:17:59,Positivo
+Thales Oliveira,M,2023-05-14 07:29:57,Positivo
+Sra. Mirella Gomes,F,2023-04-12 08:26:47,Negativo
+Maria Sophia Barbosa,F,2023-07-09 00:20:19,Negativo
+Stella Novaes,F,2023-03-13 14:51:22,Negativo
+Isis Pinto,F,2023-10-30 05:53:11,Negativo
+Sr. Benjamim Guerra,M,2023-12-12 04:46:45,Positivo
+Heloisa Peixoto,F,2023-01-25 16:37:33,Negativo
+Davi Luiz Moura,M,2023-07-08 23:23:24,Positivo
+Clarice Pastor,F,2023-03-06 13:16:45,Positivo
+Heloísa Fogaça,F,2023-03-24 21:00:31,Negativo
+Laís Macedo,F,2023-07-24 05:39:49,Positivo
+Pedro Henrique Gomes,M,2023-03-02 22:12:43,Negativo
+Srta. Stephany Monteiro,F,2023-04-10 21:59:43,Negativo
+Nina Freitas,F,2023-02-01 05:09:16,Positivo
+Zoe Castro,F,2023-05-09 02:54:53,Negativo
+Henrique Aragão,M,2023-02-01 15:20:39,Negativo
+Ágatha Moura,F,2023-08-14 08:53:13,Positivo
+Maria Clara Silva,F,2023-08-18 14:07:03,Negativo
+Gabriela Leão,F,2023-07-21 10:32:43,Positivo
+Ísis Barbosa,F,2023-12-30 21:31:01,Positivo
+Evelyn Ribeiro,F,2023-03-12 21:38:00,Negativo
+Dr. Vinicius Sousa,M,2023-07-06 23:40:32,Positivo
+Manuela Pinto,F,2023-06-07 14:27:06,Negativo
+Ísis Porto,F,2023-03-19 20:21:05,Positivo
+João Miguel Rezende,M,2023-03-12 20:12:25,Negativo
+Cauê da Cruz,M,2023-07-11 07:49:41,Positivo
+Luara Novais,F,2023-04-12 07:46:42,Negativo
+Gael Henrique Brito,M,2023-12-04 09:35:22,Negativo
+Ana Vitória Farias,F,2023-08-09 11:23:48,Negativo
+Camila Moura,F,2023-02-24 00:58:33,Negativo
+Rafaela Cavalcanti,F,2023-08-06 08:18:58,Negativo
+Ayla Ferreira,F,2023-04-08 07:44:20,Positivo
+Isadora Teixeira,F,2023-06-02 20:01:39,Negativo
+Laís Marques,F,2023-10-16 21:44:43,Positivo
+Bianca Ferreira,F,2023-10-25 03:05:37,Negativo
+Sra. Kamilly Nascimento,F,2023-03-08 05:55:15,Negativo
+Marcelo Nogueira,M,2023-05-16 06:24:45,Negativo
+Enzo Rios,M,2023-11-19 21:52:32,Negativo
+Rhavi Mendes,M,2023-10-07 03:02:48,Positivo
+João Miguel Sales,M,2023-01-17 17:07:19,Positivo
+Sr. Gael Pereira,M,2023-04-22 08:00:14,Positivo
+João Pedro Casa Grande,M,2023-04-08 15:56:39,Negativo
+Pedro Lucas Pimenta,M,2023-07-05 06:25:56,Negativo
+Dra. Heloisa Souza,F,2023-04-28 00:17:59,Positivo
+Dra. Maria Flor Andrade,F,2023-02-15 17:36:45,Negativo
+Gabriela Aparecida,F,2023-10-16 07:18:10,Negativo
+Sr. Vitor Albuquerque,M,2023-02-11 20:39:26,Positivo
+Leonardo Cavalcante,M,2023-01-24 18:29:58,Positivo
+Joana Sampaio,F,2023-04-27 14:38:27,Positivo
+Rebeca Vieira,F,2023-08-31 21:26:16,Negativo
+Marcela da Conceição,F,2023-04-14 02:41:40,Negativo
+Léo Azevedo,M,2023-07-28 11:40:56,Negativo
+Letícia Freitas,F,2023-03-13 15:45:11,Negativo
+Mariah Freitas,F,2023-03-11 03:31:26,Positivo
+Maria Vitória Rocha,F,2023-03-18 15:30:31,Negativo
+Liz Marques,F,2023-10-28 11:53:17,Positivo
+Paulo Gomes,M,2023-04-14 20:06:43,Negativo
+Dr. Bruno Correia,M,2023-10-31 19:28:41,Negativo
+Dr. Dom Porto,M,2023-07-17 02:20:26,Positivo
+Isaque Azevedo,M,2023-03-22 11:24:01,Negativo
+Theo Araújo,M,2023-11-19 17:40:27,Negativo
+Rael Correia,M,2023-02-27 02:37:46,Positivo
+Gabriel Barros,M,2023-02-23 19:43:41,Negativo
+Davi Luiz Macedo,M,2023-03-03 07:51:47,Negativo
+Dr. Mathias Almeida,M,2023-08-23 13:38:25,Negativo
+Maria Cecília Dias,F,2023-12-08 00:29:46,Negativo
+Thomas Gomes,M,2023-05-18 09:17:40,Positivo
+Luiz Gustavo Câmara,M,2023-01-18 04:00:08,Negativo
+Srta. Ana Clara Duarte,F,2023-05-06 23:06:00,Positivo
+Rael Mendes,M,2023-10-19 03:44:27,Positivo
+Pietra Castro,F,2023-11-22 22:25:42,Positivo
+Dr. Otto Cavalcante,M,2023-07-11 14:03:28,Positivo
+Manuela Abreu,F,2023-07-24 18:36:10,Positivo
+Pedro Henrique da Luz,M,2023-04-04 09:53:05,Positivo
+Ana Clara Almeida,F,2023-11-14 18:45:32,Positivo
+Vitor Gabriel da Costa,M,2023-02-12 01:54:08,Positivo
+Maria Liz Macedo,F,2023-03-13 19:08:26,Positivo
+Dra. Maria Liz Nunes,F,2023-10-27 00:46:47,Positivo
+Gustavo Santos,M,2023-06-09 22:33:27,Positivo
+Luiz Henrique Araújo,M,2023-02-07 07:56:42,Negativo
+Maria Fernanda Pinto,F,2023-11-19 04:02:52,Positivo
+Sophie Cunha,F,2023-02-01 15:44:15,Negativo
+Sra. Mirella Câmara,F,2023-06-27 08:57:21,Positivo
+Natália Borges,F,2023-08-07 06:06:10,Positivo
+Sra. Maria Helena Martins,F,2023-02-26 13:39:48,Positivo
+Igor Casa Grande,M,2023-06-29 09:27:26,Positivo
+Antônio Novais,M,2023-09-12 21:21:06,Positivo
+Matheus da Luz,M,2023-11-10 11:15:07,Negativo
+Gustavo Henrique Albuquerque,M,2023-04-23 12:35:50,Negativo
+Erick Moraes,M,2023-01-30 02:57:49,Negativo
+Kaique Teixeira,M,2023-01-21 13:58:39,Negativo
+Mariane da Conceição,F,2023-04-26 23:16:56,Positivo
+Maysa Rocha,F,2023-12-04 01:39:35,Negativo
+Benicio Melo,M,2023-12-20 07:43:04,Negativo
+Sr. Yan Barbosa,M,2023-06-01 17:20:16,Negativo
+Dr. João Vitor Rocha,M,2023-10-14 02:00:19,Negativo
+Dr. Isaque Castro,M,2023-04-23 10:15:26,Positivo
+Sra. Luísa Jesus,F,2023-05-30 10:24:06,Negativo
+Dr. Otto Garcia,M,2023-06-14 15:37:10,Positivo
+Eduardo da Costa,M,2023-10-06 21:58:07,Positivo
+Isis Novais,F,2023-01-30 02:59:42,Positivo
+Benjamin Viana,M,2023-03-19 19:26:56,Negativo
+Breno Brito,M,2023-04-13 10:49:22,Negativo
+Stella Macedo,F,2023-07-20 06:49:00,Negativo
+Isaac Fonseca,M,2023-05-04 02:04:26,Negativo
+Theodoro Casa Grande,M,2023-01-15 07:56:15,Negativo
+João Felipe Mendes,M,2023-11-18 05:14:29,Negativo
+Dr. Caleb Alves,M,2023-06-02 22:04:58,Negativo
+Ana Cecília Azevedo,F,2023-11-21 10:52:16,Positivo
+Gael Henrique Duarte,M,2023-03-09 21:17:16,Negativo
+Sra. Manuella Santos,F,2023-09-15 12:01:28,Negativo
+Lucas Correia,M,2023-05-09 00:21:13,Negativo
+Milena Correia,F,2023-03-01 03:11:32,Negativo
+Calebe Câmara,M,2023-05-14 11:22:05,Negativo
+José Miguel Lima,M,2023-12-06 05:44:32,Positivo
+Ana Clara Novaes,F,2023-05-09 20:40:05,Positivo
+Brenda Melo,F,2023-03-31 00:35:19,Negativo
+Sarah Viana,F,2023-04-18 13:52:17,Negativo
+Luísa Teixeira,F,2023-10-30 01:28:35,Negativo
+Levi Barros,M,2023-08-19 15:02:40,Positivo
+Dr. Calebe Camargo,M,2023-01-02 00:51:22,Positivo
+Asafe Pereira,M,2023-11-05 15:49:20,Negativo
+Bianca Mendonça,F,2023-01-05 22:20:28,Negativo
+Emanuelly Lopes,F,2023-02-05 10:29:43,Negativo
+Theodoro Sousa,M,2023-12-22 13:14:53,Positivo
+Maya da Rosa,F,2023-08-12 17:35:39,Negativo
+Vinicius Ferreira,M,2023-12-28 19:12:48,Positivo
+Sr. Rafael Aparecida,M,2023-01-06 01:21:11,Negativo
+Theodoro Cassiano,M,2023-09-04 19:28:11,Negativo
+André da Luz,M,2023-05-22 08:33:20,Negativo
+Luiz Felipe Marques,M,2023-03-10 03:12:43,Negativo
+Samuel Cirino,M,2023-07-26 05:28:31,Negativo
+Srta. Carolina Machado,F,2023-04-27 11:33:13,Positivo
+Manuela Silva,F,2023-06-27 16:09:31,Positivo
+Mathias Marques,M,2023-11-25 01:41:07,Negativo
+Bella Aparecida,F,2023-10-31 18:42:49,Positivo
+Ester Duarte,F,2023-01-28 19:41:30,Negativo
+Sr. Pedro Rodrigues,M,2023-05-04 23:10:14,Positivo
+Bianca da Rocha,F,2023-04-29 20:59:21,Negativo
+Manuela Castro,F,2023-07-06 15:28:20,Positivo
+Dr. João Felipe Santos,M,2023-06-30 13:14:14,Positivo
+Luiz Gustavo Câmara,M,2023-04-25 09:25:38,Positivo
+Asafe Pacheco,M,2023-11-22 22:10:42,Positivo
+Maitê Carvalho,F,2023-06-02 19:40:36,Negativo
+Maria Luísa Câmara,F,2023-09-05 10:24:15,Positivo
+Dra. Allana Porto,F,2023-09-27 10:29:09,Negativo
+Leandro Borges,M,2023-06-25 16:29:24,Negativo
+Benicio Jesus,M,2023-01-17 22:51:08,Positivo
+Aurora Moraes,F,2023-03-02 06:46:33,Negativo
+Stephany Sampaio,F,2023-11-30 16:51:29,Negativo
+Sara Nogueira,F,2023-08-20 02:36:28,Positivo
+Ana Beatriz Pastor,F,2023-09-23 09:51:08,Positivo
+Caleb Cunha,M,2023-07-13 08:40:40,Negativo
+Benjamim Aragão,M,2023-06-20 11:42:21,Positivo
+Carolina Cunha,F,2023-02-18 03:42:34,Positivo
+Joaquim Vasconcelos,M,2023-02-23 17:49:35,Positivo
+Aurora das Neves,F,2023-08-16 03:38:58,Positivo
+Sr. Luiz Fernando Vasconcelos,M,2023-08-21 23:26:11,Negativo
+Heloísa Peixoto,F,2023-09-10 15:01:49,Negativo
+Sra. Isabella Carvalho,F,2023-09-22 21:57:00,Positivo
+Srta. Joana Gomes,F,2023-10-25 03:15:26,Positivo
+Lorena Aparecida,F,2023-03-11 03:30:39,Positivo
+Igor da Rosa,M,2023-09-11 18:33:00,Negativo
+Pedro Henrique Cardoso,M,2023-05-08 18:33:53,Positivo
+Guilherme Novaes,M,2023-04-25 02:25:44,Positivo
+Maria Fernanda Borges,F,2023-03-05 14:09:40,Positivo
+Rebeca Nascimento,F,2023-04-10 10:47:51,Negativo
+Lunna da Rocha,F,2023-09-20 21:07:19,Negativo
+Rael da Mata,M,2023-09-03 21:32:23,Negativo
+Maria Julia Vieira,F,2023-10-01 23:22:51,Positivo
+Davi Miguel Marques,M,2023-06-04 19:05:26,Positivo
+Gabrielly Macedo,F,2023-08-22 02:46:38,Negativo
+André Teixeira,M,2023-03-16 17:12:30,Positivo
+Renan Correia,M,2023-09-07 13:14:44,Negativo
+Gustavo Leão,M,2023-03-04 16:12:53,Negativo
+Pedro Barbosa,M,2023-02-11 21:23:49,Positivo
+Davi Miguel da Mata,M,2023-10-18 19:30:30,Negativo
+Francisco da Paz,M,2023-06-23 06:35:45,Negativo
+Sr. Bento Ramos,M,2023-09-11 06:09:45,Positivo
+Ana Laura Andrade,F,2023-09-05 14:12:59,Positivo
+Mariane Casa Grande,F,2023-07-27 18:53:22,Positivo
+Maria Vitória Martins,F,2023-04-16 21:10:13,Positivo
+Dra. Ana Cecília Fogaça,F,2023-09-13 09:20:33,Positivo
+Srta. Jade Mendes,F,2023-08-12 05:26:44,Negativo
+Caleb Mendes,M,2023-04-07 11:47:16,Negativo
+Mariana Novais,F,2023-12-26 00:34:32,Positivo
+Sophia Brito,F,2023-05-05 09:03:28,Positivo
+Rodrigo Peixoto,M,2023-12-09 05:00:00,Negativo
+Davi Lucca Pimenta,M,2023-08-31 07:04:38,Negativo
+Ayla Aparecida,F,2023-10-04 10:18:58,Negativo
+Igor Rios,M,2023-07-30 17:48:26,Positivo
+Sra. Ana Castro,F,2023-09-09 04:03:11,Positivo
+Maria Julia Marques,F,2023-01-19 21:37:43,Negativo
+Gael Henrique Leão,M,2023-11-06 03:23:40,Negativo
+Daniel da Rocha,M,2023-02-02 09:03:07,Negativo
+Marina da Conceição,F,2023-07-24 16:01:45,Negativo
+Caroline da Rosa,F,2023-06-14 06:58:45,Positivo
+Marcela Caldeira,F,2023-11-30 17:18:31,Negativo
+Henrique Ferreira,M,2023-03-22 20:59:09,Negativo
+Sr. Isaque Garcia,M,2023-08-25 08:15:04,Negativo
+Rael Pereira,M,2023-07-22 08:50:04,Negativo
+Agatha da Conceição,F,2023-06-13 07:33:23,Negativo
+Luiz Miguel Freitas,M,2023-01-30 04:59:16,Positivo
+Emanuelly Nogueira,F,2023-09-21 11:20:50,Positivo
+Maria Almeida,F,2023-10-27 20:05:02,Positivo
+Alícia Nunes,F,2023-09-21 10:53:21,Positivo
+Lucca da Rocha,M,2023-11-20 16:30:29,Positivo
+Dr. Rael Pires,M,2023-06-17 18:03:48,Negativo
+Kaique Barbosa,M,2023-12-09 10:18:18,Negativo
+Nathan Garcia,M,2023-07-22 18:09:54,Negativo
+Guilherme Rocha,M,2023-03-08 04:58:50,Negativo
+Otto Cavalcante,M,2023-04-19 22:51:19,Negativo
+Sr. Bernardo Correia,M,2023-05-29 03:50:05,Positivo
+Anna Liz Peixoto,F,2023-03-19 02:18:43,Positivo
+Mirella Castro,F,2023-05-26 05:58:48,Negativo
+Daniel Cirino,M,2023-04-19 07:59:22,Negativo
+Davi Lucca Pacheco,M,2023-03-03 21:50:46,Positivo
+Ravi Lucca Guerra,M,2023-05-08 03:08:38,Positivo
+Dr. Lucas Gabriel Correia,M,2023-01-07 21:15:19,Negativo
+Davi Rocha,M,2023-10-22 12:28:34,Negativo
+Igor Silveira,M,2023-01-16 00:36:11,Positivo
+Beatriz Barbosa,F,2023-05-16 03:34:45,Positivo
+Gabriela Costa,F,2023-03-04 10:42:04,Positivo
+Dra. Luara da Rosa,F,2023-10-30 14:05:59,Positivo
+João Lucas Albuquerque,M,2023-08-13 15:31:54,Positivo
+Maria Eduarda Guerra,F,2023-12-01 08:46:22,Negativo
+Mariana Mendonça,F,2023-04-27 06:11:44,Positivo
+Fernanda Mendonça,F,2023-12-04 20:37:59,Positivo
+Alexia Pacheco,F,2023-05-12 04:28:29,Negativo
+Ravi Melo,M,2023-04-13 02:36:06,Positivo
+Ryan Correia,M,2023-07-14 01:08:29,Positivo
+Davi Miguel Campos,M,2023-07-11 10:01:18,Positivo
+Vitor Ribeiro,M,2023-04-19 08:44:57,Positivo
+João Guilherme Dias,M,2023-12-02 02:53:07,Negativo
+Benjamin Cardoso,M,2023-10-01 17:45:32,Positivo
+Bernardo Abreu,M,2023-09-03 02:01:39,Negativo
+Olívia Cavalcanti,F,2023-03-31 23:26:39,Negativo
+Luiz Gustavo Alves,M,2023-07-16 15:36:04,Negativo
+Augusto Sampaio,M,2023-06-04 10:04:06,Negativo
+José Pedro Cirino,M,2023-08-09 08:45:51,Positivo
+Brenda Pereira,F,2023-08-16 02:21:53,Negativo
+Gabriela Alves,F,2023-04-01 18:35:59,Positivo
+Joana Vargas,F,2023-12-28 17:27:45,Positivo
+Olivia Brito,F,2023-11-11 00:36:57,Positivo
+Sr. Juan da Luz,M,2023-02-10 09:55:14,Negativo
+Bella Macedo,F,2023-04-26 07:07:22,Positivo
+Dr. Felipe Araújo,M,2023-01-12 21:37:58,Negativo
+Isabelly Garcia,F,2023-08-30 20:13:13,Negativo
+Henry Viana,M,2023-04-25 10:10:52,Positivo
+Dante Garcia,M,2023-04-09 06:52:52,Negativo
+Kamilly Monteiro,F,2023-11-29 01:13:52,Negativo
+Srta. Melissa Dias,F,2023-10-23 07:23:11,Positivo
+Nicole da Costa,F,2023-02-20 18:30:27,Negativo
+Bruno Teixeira,M,2023-11-27 00:57:43,Positivo
+Igor Cassiano,M,2023-12-20 23:36:08,Negativo
+Sr. Emanuel da Rocha,M,2023-12-29 19:45:37,Negativo
+Letícia Alves,F,2023-12-03 23:03:44,Negativo
+Lunna da Paz,F,2023-04-10 03:36:21,Positivo
+Esther Novais,F,2023-01-14 08:58:34,Positivo
+Esther Pereira,F,2023-11-30 03:22:28,Positivo
+Luiz Otávio Rodrigues,M,2023-06-22 17:23:14,Negativo
+Benício Souza,M,2023-01-06 10:57:08,Negativo
+Davi Miguel Martins,M,2023-05-25 10:08:58,Negativo
+Maria Cecília Casa Grande,F,2023-01-28 05:29:34,Negativo
+Valentim Costa,M,2023-11-03 00:51:00,Positivo
+Valentim Fogaça,M,2023-11-25 01:06:11,Negativo
+Antônio Andrade,M,2023-11-06 09:21:15,Negativo
+Maria Fernanda Carvalho,F,2023-08-02 11:23:41,Negativo
+Pietra Rezende,F,2023-08-11 21:22:39,Positivo
+Ana Cecília Rodrigues,F,2023-03-10 10:22:07,Negativo
+Lavínia Lopes,F,2023-02-23 11:15:20,Positivo
+Caroline da Mota,F,2023-02-17 01:15:57,Positivo
+Lorenzo da Rosa,M,2023-11-21 11:27:36,Positivo
+Valentim Duarte,M,2023-08-25 00:22:56,Negativo
+Bruna Albuquerque,F,2023-05-09 02:57:55,Positivo
+Ana Carolina Almeida,F,2023-11-05 16:59:28,Positivo
+Vinícius Azevedo,M,2023-04-11 06:01:42,Positivo
+Lívia da Rocha,F,2023-09-19 16:23:42,Positivo
+Ana Lívia Vargas,F,2023-01-14 10:10:08,Negativo
+Nicolas Nogueira,M,2023-11-17 03:39:05,Negativo
+Srta. Júlia Viana,F,2023-03-06 01:33:55,Positivo
+Oliver Vargas,M,2023-09-03 11:41:12,Positivo
+Yasmin Ribeiro,F,2023-04-20 06:28:08,Positivo
+Mathias Fernandes,M,2023-07-05 11:03:18,Negativo
+Pietro Marques,M,2023-12-24 04:55:29,Negativo
+Paulo Leão,M,2023-05-19 19:52:20,Positivo
+Ryan Sales,M,2023-01-20 05:32:33,Negativo
+Gabriela Mendonça,F,2023-10-06 04:54:48,Negativo
+Arthur Jesus,M,2023-08-17 15:14:09,Positivo
+Sr. Dante da Luz,M,2023-12-09 18:49:19,Negativo
+Daniel Correia,M,2023-03-09 08:17:18,Positivo
+Raul Gonçalves,M,2023-05-19 04:25:17,Positivo
+Dra. Marcela Casa Grande,F,2023-12-30 14:37:30,Negativo
+Ana Lívia Marques,F,2023-11-10 07:30:01,Negativo
+Murilo Leão,M,2023-02-07 09:50:39,Positivo
+Josué Vasconcelos,M,2023-03-01 13:06:33,Positivo
+Miguel Martins,M,2023-11-20 06:20:04,Positivo
+Agatha Garcia,F,2023-01-15 15:06:09,Positivo
